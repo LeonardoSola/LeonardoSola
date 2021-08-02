@@ -14,7 +14,7 @@
 
 ### About me
 
-- I am an 18yo Brazilian student of Systems Analysis and Development and I try to learn more
+- I am an 19yo Brazilian student of Systems Analysis and Development and I try to learn more
 
 
 ---
