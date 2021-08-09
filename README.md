@@ -5,7 +5,7 @@
 
 ### Social Media
 
-- 📸 [Instagram](https://instagram.com/leor315)
+- 📸 [Instagram](https://www.instagram.com/leorsola/)
 - 🐦 [Twitter](https://twitter.com/Reis_Sola)
 
 
