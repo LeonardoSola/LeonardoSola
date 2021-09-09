@@ -4,7 +4,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ### Social Media
-https://www.facebook.com/ReisSola/
 
 <p align="left">
 <a href="https://mail.google.com/mail/u/0/?fs=1&to=lsolaproducoes@gmail.com&tf=cm" alt="Gmail">
