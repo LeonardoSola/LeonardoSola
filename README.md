@@ -3,6 +3,13 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+
+
+### About me
+
+- I am an 19yo Brazilian student of Systems Analysis and Development and I try to learn more
+
+---
 ### Social Media
 
 <p align="left">
@@ -16,12 +23,6 @@
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/ReisSola/"/></a>
 </p>
 
----
-
-
-### About me
-
-- I am an 19yo Brazilian student of Systems Analysis and Development and I try to learn more
 
 ---
 ### Languages and Tools
