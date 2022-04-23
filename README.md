@@ -7,7 +7,7 @@
 
 ### About me
 
-- I am an 19yo Brazilian developer and student of Systems Analysis and Development.
+- I am an 20yo Brazilian Full-Stack developer and student of Systems Analysis and Development.
 
 ---
 ### Social Media
@@ -51,4 +51,5 @@
 
 
 
-<!--- ReiSola --->
+<!--- Sola --->
+<!-- Oi, eu sou um EasterEGG! 😁🥚 --->
