@@ -44,7 +44,7 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSola&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Sola stats](https://github-readme-stats.vercel.app/api?username=LeonardoSola&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Sola stats](https://github-readme-stats.vercel.app/api?username=LeonardoSola&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ![Alt text](./assets/gif.gif)
