@@ -7,12 +7,13 @@
 
 ### About me
 
-👋 Hello there! I'm Leonardo Sola, a 21-year-old Brazilian passionate about technology.
+🚀 I work as a Full-Stack Developer with strong experience in backend engineering, cloud infrastructure, AI-powered applications, and modern web platforms. My main stack includes Golang, JavaScript/TypeScript, React, Node.js, and Python.
 
-🚀 As a Full-Stack Developer, I specialize in turning ideas into powerful digital solutions. My expertise includes technologies like Golang, JavaScript, React, Node.js, and Python.
+🤖 I specialize in AI Agents, MCP (Model Context Protocol), LLM integrations, and RAG (Retrieval-Augmented Generation) systems, building intelligent applications capable of automation, orchestration, tool usage, contextual retrieval, and real-world workflows.
 
-🎓 I hold a degree as a Technologist in Analysis and Development of Systems, and my journey as a student has equipped me with a strong foundation for tackling complex challenges in the tech world.
+💡 I enjoy transforming ideas into reliable digital products, with a strong focus on performance, clean architecture, scalability, and developer experience.
 
+🎓 I hold a degree in Systems Analysis and Development, which provided me with a solid technical foundation for solving complex challenges and continuously adapting to emerging technologies.
 
 ---
 ### Social Media
